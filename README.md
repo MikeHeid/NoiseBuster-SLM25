@@ -1,3 +1,5 @@
+This fork works with the widely popular SLM-25.
+Hacked together in 20 minutes so hoping it works for you!
 
 <p align="center">
   <img src="noisebuster.png" alt="Image Description">
