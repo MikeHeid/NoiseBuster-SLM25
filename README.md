@@ -6,6 +6,9 @@ Choose your device (idVendor=0x1a86, idProduct=0xe010)
 
 Ripped out pushover as it was causing me issues.
 
+RUN AS ADMIN!
+
+
 <p align="center">
   <img src="noisebuster.png" alt="Image Description">
 </p>
